@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👨‍💻 I am currently working on full-stack developing and software automation testing.<br><br>🤝 I want to gain experience by collaborating on the projects I work on. Feel free to send a "pull request" for the parts you see missing or faulty in my projects.<br><br>⛑ I am looking for help with full-stack developer must-have skills and his perspective.<br><br>💡 I am currently learning JavaScript, React and node.js.<br><br>✍ You can ask anything you have in mind about the areas I work in. Information multiplies as we share.<br><br>📀 In my free time I enjoy playing video games with stories, reading books and watching films. I also enjoy researching music samples and discovering new music.
 
 ## 🌐 Socials:
